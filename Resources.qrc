@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/Ascending.png</file>
+        <file>Resources/AutomaticMode.png</file>
+        <file>Resources/Descending.png</file>
+        <file>Resources/Exit.png</file>
+        <file>Resources/FirstInstruction.png</file>
+        <file>Resources/Help.png</file>
+        <file>Resources/Information.png</file>
+        <file>Resources/ManualMode.png</file>
+        <file>Resources/NextInstruction.png</file>
+        <file>Resources/Pause.png</file>
+        <file>Resources/PreviousInstruction.png</file>
+        <file>Resources/Random.png</file>
+        <file>Resources/Run.png</file>
+        <file>Resources/Settings.png</file>
+        <file>Resources/Stop.png</file>
+        <file>Resources/Warning.png</file>
+    </qresource>
+</RCC>
